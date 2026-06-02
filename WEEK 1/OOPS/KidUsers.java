@@ -19,6 +19,7 @@ class KidUsers implements LibraryUser {
             System.out.println("Sorry, Age must be less than 12 to register as a kid");
         }
     }
+    
 
     @Override
     public void requestBook() {
