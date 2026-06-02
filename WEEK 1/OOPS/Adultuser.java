@@ -20,6 +20,7 @@ class AdultUser implements LibraryUser {
         }
     }
 
+    
     @Override
     public void requestBook() {
         if (bookType.equalsIgnoreCase("Fiction")) {
