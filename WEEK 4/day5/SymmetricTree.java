@@ -29,6 +29,7 @@ return mirror(
 a.left,
 b.right
 )
+
 &&
 mirror(
 a.right,
