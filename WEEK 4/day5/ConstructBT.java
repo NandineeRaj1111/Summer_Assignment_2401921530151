@@ -56,7 +56,7 @@ build(
 preorder,
 left,
 mid-1
-);
+) ;
 
 root.right=
 build(
